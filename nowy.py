@@ -1,1 +1,0 @@
- print('Jesteś młodszy ode mnie.')
