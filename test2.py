@@ -10,7 +10,7 @@ for i in range(65, 91):
     print(tmp, end=" ")
 
 x = -1
-print("\nAlfabet w porządku odwróconym:") #mała nieistotna zmiana
+print("\nAlfabet w porządku odwróconym:") 
 for i in range(122, 96, -1):
     litera = chr(i)
     x += 1
